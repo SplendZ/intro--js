@@ -1,0 +1,7 @@
+const name="Sandra";
+const age=24;
+const fav_lan="Python";
+
+console.log("Name:", name);
+console.log("Age:", age);
+console.log("Favourite Programming Language:", fav_lan);
